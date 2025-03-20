@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-Personal Web: https://xiaoxiaomiao323.github.io/xiaoxiaomiao/
+Personal Web: https://xiaoxiaomiao323.github.io
 
 <!--
 **jinyeying/jinyeying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
