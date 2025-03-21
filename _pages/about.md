@@ -25,7 +25,7 @@ I received my Ph.D. degree from the Institute of Acoustics, Chinese Academy of S
 During 2018 and 2019, I was at the University of Kent, UK, as a Visiting Student, supervised by Prof [Ian McLoughlin](https://scholar.google.com/citations?user=mcnKgPoAAAAJ&hl=en).
 
 My research interest includes speech security, speaker and language recognition, and machine learning. I am a co-organizer of the
-[VoicePrivacy challenge](https://www.voiceprivacychallenge.org) 2022, 2024 and [Attacker Challenge at ICASSP 2025](https://www.voiceprivacychallenge.org/attacker/). My work has been published at the top international AI conferences and journals such as IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), Neural Networks, Computer Speech and Language (CSL), ICASSP, INTERSPEECH.
+[VoicePrivacy challenge](https://www.voiceprivacychallenge.org) 2022, 2024 and [Attacker Challenge at ICASSP 2025](https://www.voiceprivacychallenge.org/attacker/). My work has been published at the top international AI conferences and journals such as IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), IEEE Transactions on Information Forensics & Security (TIFS), Neural Networks, Computer Speech and Language (CSL), ICASSP, INTERSPEECH.
 
 <div class="warning">
   <div class="warning-title">
@@ -71,6 +71,8 @@ My research interest includes speech security, speaker and language recognition,
 
 **2025**
 - [The First VoicePrivacy Attacker Challenge](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10888513), Natalia Tomashenko, **Xiaoxiao Miao**, Emmanuel Vincent, and Junichi Yamagishi, *ICASSP*, 2025
+- [A benchmark for multi-speaker anonymization](https://arxiv.org/abs/2407.05608), **Xiaoxiao Miao**, Ruijie Tao, Chang Zeng, Xin Wang, Accepted by *IEEE TIFS*, 2025.
+
 
 **2024**  
 - [Spoofing-Aware Speaker Verification Robust Against Domain and Channel Mismatches](https://ieeexplore.ieee.org/abstract/document/10832246), Chang Zeng, **Xiaoxiao Miao**, Xin Wang, Erica Cooper, Junichi Yamagishi, *SLT*, 2024.
@@ -82,7 +84,6 @@ My research interest includes speech security, speaker and language recognition,
 - [SynVox2: Towards a privacy-friendly VoxCeleb2 dataset](https://arxiv.org/abs/2404.18501), **Xiaoxiao Miao**, Xin Wang, Erica Cooper, Junichi Yamagishi, *ICASSP*, 2024.
 - [Libri2Vox Dataset: Target Speaker Extraction with Diverse Speaker Conditions and Synthetic Data](https://arxiv.org/abs/2412.12512), Yun Liu, Xuechen Liu, **Xiaoxiao Miao**, Junichi Yamagishi, Under Review, 2024.
 - [Adapting General Disentanglement-Based Speaker Anonymization for Enhanced Emotion Preservation](https://arxiv.org/abs/2408.05928), **Xiaoxiao Miao**, Yuxiang Zhang, Xin Wang, Natalia Tomashenko, Donny Cheng Lock Soh, Ian Mcloughlin, Under Review, 2024.
-- [A benchmark for multi-speaker anonymization](https://arxiv.org/abs/2407.05608), **Xiaoxiao Miao**, Ruijie Tao, Chang Zeng, Xin Wang, Under Review, 2024.
 
 **2023**
 - [VoicePAT: An Efficient Open-source Evaluation Toolkit for Voice Privacy Research](https://doi.org/10.1109/OJSP.2023.3344375), Sarina Meyer\*, **Xiaoxiao Miao\***, Ngoc Thang Vu, *IEEE Open Journal of Signal Processing*, 2023.
