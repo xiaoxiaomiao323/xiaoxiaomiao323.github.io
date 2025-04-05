@@ -25,7 +25,7 @@ I received my Ph.D. degree from the Institute of Acoustics, Chinese Academy of S
 During 2018 and 2019, I was at the University of Kent, UK, as a Visiting Student, supervised by Prof [Ian McLoughlin](https://scholar.google.com/citations?user=mcnKgPoAAAAJ&hl=en).
 
 My research interest includes speech security, speaker and language recognition, and machine learning. I am a co-organizer of the
-[VoicePrivacy challenge](https://www.voiceprivacychallenge.org) 2022, 2024 and [Attacker Challenge at ICASSP 2025](https://www.voiceprivacychallenge.org/attacker/). My work has been published at the top international AI conferences and journals such as IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), IEEE Transactions on Information Forensics & Security (TIFS), Neural Networks, Computer Speech and Language (CSL), ICASSP, INTERSPEECH.
+[VoicePrivacy challenge](https://www.voiceprivacychallenge.org) 2022, 2024 and [Attacker Challenge at ICASSP 2025](https://www.voiceprivacychallenge.org/attacker/). My work has been published at the top international AI conferences and journals such as IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), IEEE Transactions on Information Forensics and Security (TIFS), Neural Networks, Computer Speech and Language (CSL), ICASSP, INTERSPEECH.
 
 <div class="warning">
   <div class="warning-title">
@@ -71,7 +71,7 @@ My research interest includes speech security, speaker and language recognition,
 
 **2025**
 - [The First VoicePrivacy Attacker Challenge](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10888513), Natalia Tomashenko, **Xiaoxiao Miao**, Emmanuel Vincent, and Junichi Yamagishi, *ICASSP*, 2025
-- [A benchmark for multi-speaker anonymization](https://arxiv.org/abs/2407.05608), **Xiaoxiao Miao**, Ruijie Tao, Chang Zeng, Xin Wang, Accepted by *IEEE TIFS*, 2025.
+- [A benchmark for multi-speaker anonymization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10945923), **Xiaoxiao Miao**, Ruijie Tao, Chang Zeng, Xin Wang,  *IEEE TIFS*, 2025.
 
 
 **2024**  
