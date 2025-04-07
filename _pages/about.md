@@ -83,7 +83,7 @@ My research interest includes speech security, speaker and language recognition,
 - [Joint Speaker Encoder and Neural Back-end Model for Fully End-to-End Automatic Speaker Verification with Multiple Enrollment Utterances](https://doi.org/10.1016/j.csl.2024.101619), Chang Zeng, **Xiaoxiao Miao**, Xin Wang, Erica Cooper, Junichi Yamagishi, *Computer Speech and Language*, 2024
 - [SynVox2: Towards a privacy-friendly VoxCeleb2 dataset](https://arxiv.org/abs/2404.18501), **Xiaoxiao Miao**, Xin Wang, Erica Cooper, Junichi Yamagishi, *ICASSP*, 2024.
 - [Libri2Vox Dataset: Target Speaker Extraction with Diverse Speaker Conditions and Synthetic Data](https://arxiv.org/abs/2412.12512), Yun Liu, Xuechen Liu, **Xiaoxiao Miao**, Junichi Yamagishi, Under Review, 2024.
-- [Adapting General Disentanglement-Based Speaker Anonymization for Enhanced Emotion Preservation](https://arxiv.org/abs/2408.05928), **Xiaoxiao Miao**, Yuxiang Zhang, Xin Wang, Natalia Tomashenko, Donny Cheng Lock Soh, Ian Mcloughlin, Under Review, 2024.
+- [Adapting General Disentanglement-Based Speaker Anonymization for Enhanced Emotion Preservation](https://arxiv.org/abs/2408.05928), **Xiaoxiao Miao\***, Yuxiang Zhang\*, Xin Wang, Natalia Tomashenko, Donny Cheng Lock Soh, Ian Mcloughlin, Under Review, 2024.
 
 **2023**
 - [VoicePAT: An Efficient Open-source Evaluation Toolkit for Voice Privacy Research](https://doi.org/10.1109/OJSP.2023.3344375), Sarina Meyer\*, **Xiaoxiao Miao\***, Ngoc Thang Vu, *IEEE Open Journal of Signal Processing*, 2023.
