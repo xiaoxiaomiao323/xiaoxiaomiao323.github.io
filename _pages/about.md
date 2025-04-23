@@ -70,9 +70,9 @@ My research interest includes speech security, speaker and language recognition,
 # Publication
 
 **2025**
-- [The First VoicePrivacy Attacker Challenge](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10888513), Natalia Tomashenko, **Xiaoxiao Miao**, Emmanuel Vincent, and Junichi Yamagishi, *ICASSP*, 2025
+- [The First VoicePrivacy Attacker Challenge](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10888513), Natalia Tomashenko, **Xiaoxiao Miao**, Emmanuel Vincent, and Junichi Yamagishi, *ICASSP*, 2025.
 - [A benchmark for multi-speaker anonymization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10945923), **Xiaoxiao Miao**, Ruijie Tao, Chang Zeng, Xin Wang,  *IEEE TIFS*, 2025.
-- [Adapting General Disentanglement-Based Speaker Anonymization for Enhanced Emotion Preservation](https://arxiv.org/abs/2408.05928), **Xiaoxiao Miao\***, Yuxiang Zhang\*, Xin Wang, Natalia Tomashenko, Donny Cheng Lock Soh, Ian Mcloughlin, accepted by CSL.
+- [Adapting General Disentanglement-Based Speaker Anonymization for Enhanced Emotion Preservation](https://arxiv.org/abs/2408.05928), **Xiaoxiao Miao\***, Yuxiang Zhang\*, Xin Wang, Natalia Tomashenko, Donny Cheng Lock Soh, Ian Mcloughlin, accepted by *CSL*.
 
 **2024**  
 - [Spoofing-Aware Speaker Verification Robust Against Domain and Channel Mismatches](https://ieeexplore.ieee.org/abstract/document/10832246), Chang Zeng, **Xiaoxiao Miao**, Xin Wang, Erica Cooper, Junichi Yamagishi, *SLT*, 2024.
@@ -80,7 +80,7 @@ My research interest includes speech security, speaker and language recognition,
 - [The First VoicePrivacy Attacker Challenge Evaluation Plan](https://arxiv.org/abs/2410.07428), Natalia Tomashenko, **Xiaoxiao Miao**, Emmanuel Vincent, Junichi Yamagishi, *arXiv*, 2024.
 - [The VoicePrivacy 2022 Challenge: Progress and Perspectives in Voice Anonymisation](https://doi.org/10.1109/TASLP.2024.3430530), Michele Panariello, Natalia Tomashenko, Xin Wang, **Xiaoxiao Miao**, Pierre Champion, Hubert Nourtel, Massimiliano Todisco, Nicholas Evans, Emmanuel Vincent, Junichi Yamagishi, *TASLP*, 2024.
 - [The VoicePrivacy 2024 Challenge Evaluation Plan](https://arxiv.org/abs/2404.02677), Natalia Tomashenko, **Xiaoxiao Miao**, Pierre Champion, Sarina Meyer, Xin Wang, Emmanuel Vincent, Michele Panariello, Nicholas Evans, Junichi Yamagishi, Massimiliano Todisco, *arXiv preprint*, 2024.
-- [Joint Speaker Encoder and Neural Back-end Model for Fully End-to-End Automatic Speaker Verification with Multiple Enrollment Utterances](https://doi.org/10.1016/j.csl.2024.101619), Chang Zeng, **Xiaoxiao Miao**, Xin Wang, Erica Cooper, Junichi Yamagishi, *Computer Speech and Language*, 2024
+- [Joint Speaker Encoder and Neural Back-end Model for Fully End-to-End Automatic Speaker Verification with Multiple Enrollment Utterances](https://doi.org/10.1016/j.csl.2024.101619), Chang Zeng, **Xiaoxiao Miao**, Xin Wang, Erica Cooper, Junichi Yamagishi, *CSL*, 2024.
 - [SynVox2: Towards a privacy-friendly VoxCeleb2 dataset](https://arxiv.org/abs/2404.18501), **Xiaoxiao Miao**, Xin Wang, Erica Cooper, Junichi Yamagishi, *ICASSP*, 2024.
 - [Libri2Vox Dataset: Target Speaker Extraction with Diverse Speaker Conditions and Synthetic Data](https://arxiv.org/abs/2412.12512), Yun Liu, Xuechen Liu, **Xiaoxiao Miao**, Junichi Yamagishi, Under Review, 2024.
 
@@ -91,15 +91,15 @@ My research interest includes speech security, speaker and language recognition,
 - [Hiding speaker’s sex in speech using zero-evidence speaker representation in an analysis/synthesis pipeline](https://ieeexplore.ieee.org/abstract/document/10096749), Paul-Gauthier Noé, **Xiaoxiao Miao**, Xin Wang, Junichi Yamagishi, Jean-François Bonastre, Driss Matrouf, *ICASSP*, 2023.
 
 **2022**
-- [Attention back-end for automatic speaker verification with multiple enrollment utterances](https://ieeexplore.ieee.org/abstract/document/9746688), Chang Zeng, Xin Wang, Erica Cooper, **Xiaoxiao Miao**, Junichi Yamagishi, *ICASSP*, 2022
+- [Attention back-end for automatic speaker verification with multiple enrollment utterances](https://ieeexplore.ieee.org/abstract/document/9746688), Chang Zeng, Xin Wang, Erica Cooper, **Xiaoxiao Miao**, Junichi Yamagishi, *ICASSP*, 2022.
 - [Analyzing Language-Independent Speaker Anonymization Framework under Unseen Conditions](https://arxiv.org/pdf/2404.00861), **Xiaoxiao Miao**, Xin Wang, Erica Cooper, Junichi Yamagishi, *INTERSPEECH*, 2022.
-- [Language-independent speaker anonymization approach using self-supervised pre-trained models](https://arxiv.org/abs/2202.13097), **Xiaoxiao Miao**, Xin Wang, Erica Cooper, Junichi Yamagishi, Natalia Tomashenko, *Odyssey*, 2022
-- [GuidedMix: An on‐the‐fly data augmentation approach for robust speaker recognition system](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.12354), Runqiu Xiao, Zhuo Li, **Xiaoxiao Miao**, Wenchao Wang, Pengyuan Zhang, Electronics Letters, 2022
+- [Language-independent speaker anonymization approach using self-supervised pre-trained models](https://arxiv.org/abs/2202.13097), **Xiaoxiao Miao**, Xin Wang, Erica Cooper, Junichi Yamagishi, Natalia Tomashenko, *Odyssey*, 2022.
+- [GuidedMix: An on‐the‐fly data augmentation approach for robust speaker recognition system](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.12354), Runqiu Xiao, Zhuo Li, **Xiaoxiao Miao**, Wenchao Wang, Pengyuan Zhang, Electronics Letters, 2022.
   
 **2021**
 - [D-MONA: A dilated mixed-order non-local attention network for speaker and language recognition](https://doi.org/10.1016/j.neunet.2021.03.014), **Xiaoxiao Miao**, Ian McLoughlin, Wenchao Wang, Pengyuan Zhang, *Neural Networks*, 2021.
 - [Variance Normalised Features for Language and Dialect Discrimination](https://doi.org/10.1007/s00034-020-01641-1), **Xiaoxiao Miao**, Ian McLoughlin, Yan Song, *Circuits, Systems, and Signal Processing*, 2021.
-- [Adaptive Margin Circle Loss for Speaker Verification](https://www.isca-archive.org/interspeech_2021/xiao21b_interspeech.html), Runqiu Xiao, **Xiaoxiao Miao**, Wenchao Wang, Pengyuan Zhang, Bin Cai, Liuping Luo, *INTERSPEECH*, 2021
+- [Adaptive Margin Circle Loss for Speaker Verification](https://www.isca-archive.org/interspeech_2021/xiao21b_interspeech.html), Runqiu Xiao, **Xiaoxiao Miao**, Wenchao Wang, Pengyuan Zhang, Bin Cai, Liuping Luo, *INTERSPEECH*, 2021.
 
 **2020-2018**
 - [A New Time–Frequency Attention Tensor Network for Language Identification](https://doi.org/10.1007/s00034-019-01286-9), **Xiaoxiao Miao**, Ian McLoughlin, Yanyong Hong, *Circuits, Systems, and Signal Processing*, 2020.
