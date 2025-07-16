@@ -70,6 +70,7 @@ My research interest includes speech security, speaker and language recognition,
 # Publication
 
 **2025**
+- [SecureSpeech: Prompt-based Speaker and Content Protection](https://arxiv.org/abs/2507.07799), Belinda Soh Hui Hui, **Xiaoxiao Miao**, Xin Wang, *IEEE IJCB*, 2025.
 - [The First VoicePrivacy Attacker Challenge](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10888513), Natalia Tomashenko, **Xiaoxiao Miao**, Emmanuel Vincent, and Junichi Yamagishi, *ICASSP*, 2025.
 - [A benchmark for multi-speaker anonymization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10945923), **Xiaoxiao Miao**, Ruijie Tao, Chang Zeng, Xin Wang,  *IEEE TIFS*, 2025.
 - [Adapting General Disentanglement-Based Speaker Anonymization for Enhanced Emotion Preservation](https://www.sciencedirect.com/science/article/pii/S088523082500035X), **Xiaoxiao Miao\***, Yuxiang Zhang\*, Xin Wang, Natalia Tomashenko, Donny Cheng Lock Soh, Ian Mcloughlin, *CSL*, 2025.
