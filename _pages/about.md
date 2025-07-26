@@ -20,7 +20,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am an assistant professor at [Duke KunShan University](https://www.dukekunshan.edu.cn).
-Prior to that, I was an assistant professor at [Singapore Institute of Technology](https://www.singaporetech.edu.sg/directory/faculty/xiaoxiao-miao) from October 2023 to July 2025 and  a postdoctoral researcher at the National Institute of Informatics (NII), Japan, supervised by Prof [Junichi Yamagishi](https://scholar.google.com/citations?user=nRrdjtwAAAAJ&hl=zh-CN) from 2021 to 2023.
+Prior to that, I was an assistant professor at [Singapore Institute of Technology](https://www.singaporetech.edu.sg/directory/faculty/xiaoxiao-miao) from October 2023 to July 2025 and a postdoctoral researcher at the National Institute of Informatics (NII), Japan, from 2021 to 2023, supervised by Prof [Junichi Yamagishi](https://scholar.google.com/citations?user=nRrdjtwAAAAJ&hl=zh-CN).
 I received my Ph.D. degree from the Institute of Acoustics, Chinese Academy of Sciences/University of Chinese Academy of Sciences, in 2021, supervised by Prof [Pengyuan Zhang](https://scholar.google.com/citations?user=-Op9f5sAAAAJ&hl=en).
 During 2018 and 2019, I was at the University of Kent, UK, as a Visiting Student, supervised by Prof [Ian McLoughlin](https://scholar.google.com/citations?user=mcnKgPoAAAAJ&hl=en).
 
