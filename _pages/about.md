@@ -19,22 +19,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an assistant professor at [Singapore Institute of Technology](https://www.singaporetech.edu.sg/directory/faculty/xiaoxiao-miao) until July 2025 and will join [Duke KunShan University](https://www.dukekunshan.edu.cn) as a tenure-track assistant professor in August 2025. 
-Prior to that, from 2021 to 2023, I was a postdoctoral researcher at the National Institute of Informatics (NII), Japan, supervised by Prof [Junichi Yamagishi](https://scholar.google.com/citations?user=nRrdjtwAAAAJ&hl=zh-CN).
+I am a tenure-track assistant professor at [Duke KunShan University](https://www.dukekunshan.edu.cn).
+Prior to that, I was an assistant professor at [Singapore Institute of Technology](https://www.singaporetech.edu.sg/directory/faculty/xiaoxiao-miao) from October 2023 to July 2025 and  a postdoctoral researcher at the National Institute of Informatics (NII), Japan, supervised by Prof [Junichi Yamagishi](https://scholar.google.com/citations?user=nRrdjtwAAAAJ&hl=zh-CN) from 2021 to 2023.
 I received my Ph.D. degree from the Institute of Acoustics, Chinese Academy of Sciences/University of Chinese Academy of Sciences, in 2021, supervised by Prof [Pengyuan Zhang](https://scholar.google.com/citations?user=-Op9f5sAAAAJ&hl=en).
 During 2018 and 2019, I was at the University of Kent, UK, as a Visiting Student, supervised by Prof [Ian McLoughlin](https://scholar.google.com/citations?user=mcnKgPoAAAAJ&hl=en).
 
 My research interest includes speech security, speaker and language recognition, and machine learning. I am a co-organizer of the
 [VoicePrivacy challenge](https://www.voiceprivacychallenge.org) 2022, 2024 and [Attacker Challenge at ICASSP 2025](https://www.voiceprivacychallenge.org/attacker/). My work has been published at the top international AI conferences and journals such as IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), IEEE Transactions on Information Forensics and Security (TIFS), Neural Networks, Computer Speech and Language (CSL), ICASSP, INTERSPEECH.
 
-<div class="warning">
-  <div class="warning-title">
-    <p>Recruiting</p>
-  </div>
- <div class="warning-text">
-  I’m looking for a <strong>full-time research assistant</strong> with a <strong>master's degree</strong>, starting in <strong>August 2025</strong> at <strong>Duke Kunshan University</strong>, to work with me on the <strong>voice privacy</strong> topic and assist with the <strong>machine learning course</strong> as a TA. Drop me an email at <a href="mailto:xiaoxiao.miao@dukekunshan.edu.cn">xiaoxiao.miao@dukekunshan.edu.cn</a> with your <strong>CV</strong> attached if you are interested.
-  </div>
-</div>
 
 <span class='anchor' id='teaching'></span>
 # Teaching
