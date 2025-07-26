@@ -99,7 +99,7 @@ My research interest includes speech security, speaker and language recognition,
 
 **2020-2018**
 - [A New Time–Frequency Attention Tensor Network for Language Identification](https://doi.org/10.1007/s00034-019-01286-9), **Xiaoxiao Miao**, Ian McLoughlin, Yanyong Hong, *Circuits, Systems, and Signal Processing*, 2020.
-- [Lstm-tdnn with convolutional front-end for dialect identification in the 2019 multi-genre broadcast challenge](https://arxiv.org/abs/1912.09003), Xiaoxiao Miao, Ian McLoughlin, *arXiv*, 2019.
+- [Lstm-tdnn with convolutional front-end for dialect identification in the 2019 multi-genre broadcast challenge](https://arxiv.org/abs/1912.09003), **Xiaoxiao Miao**, Ian McLoughlin, *arXiv*, 2019.
 - [A New Time-Frequency Attention Mechanism for TDNN and CNN-LSTM-TDNN, with Application to Language Identification](https://www.isca-archive.org/interspeech_2019/miao19b_interspeech.pdf), **Xiaoxiao Miao**, Ian McLoughlin, Yonghong Yan, *INTERSPEECH*, 2019.
 - [Improved conditional generative adversarial net classification for spoken language recognition](https://ieeexplore.ieee.org/abstract/document/8639522), **Xiaoxiao Miao**, Ian McLoughlin, Shengyu Yao, Yonghong Yan, *SLT*, 2018.
 
