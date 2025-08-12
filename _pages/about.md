@@ -62,6 +62,7 @@ My research interest includes speech security, speaker and language recognition,
 # Publication
 
 **2025**
+- [SEF-MK: Speaker-Embedding-Free Voice Anonymization through Multi-k-means Quantization](https://arxiv.org/abs/2508.07086), Beilong Tang, **Xiaoxiao Miao**, Xin Wang, Ming Li, *IEEE ASRU*, 2025.
 - [SecureSpeech: Prompt-based Speaker and Content Protection](https://arxiv.org/abs/2507.07799), Belinda Soh Hui Hui, **Xiaoxiao Miao**, Xin Wang, *IEEE IJCB*, 2025.
 - [Mitigating Language Mismatch in SSL-Based Speaker Anonymization](https://arxiv.org/abs/2507.00458), Zhe Zhang, Wen-Chin Huang, Xin Wang, **Xiaoxiao Miao**, Junichi Yamagishi, *INTERSPEECH*, 2025.
 - [Automated evaluation of children's speech fluency for low-resource languages](https://arxiv.org/abs/2505.19671), Bowen Zhang, Nur Afiqah Abdul Latiff, Justin Kan, Rong Tong, Donny Soh, **Xiaoxiao Miao**, Ian McLoughlin, *INTERSPEECH*, 2025
