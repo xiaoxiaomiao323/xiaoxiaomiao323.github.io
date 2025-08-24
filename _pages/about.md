@@ -62,6 +62,9 @@ My research interest includes speech security, speaker and language recognition,
 # Publication
 
 **2025**
+- SegReConcat: A Data Augmentation Method for Voice Anonymization Attack, Ridwan Arefeen, **Xiaoxiao Miao**, Tong Rong, Aik Beng Ng, Simon See, *APCIPA ASC*, 2025.
+- Exploring Machine Learning and Language Models for Multimodal Depression Detection, Javier Si Zhao Hong, Timothy Zoe Delaya, Sherwyn Chan Yin Kit, Pai Chet Ng, **Xiaoxiao Miao**, *APCIPA ASC*, 2025.
+- Speech Emotion Recognition via Entropy-Aware Score Selection, ChenYi Chua, JunKai Wong, Chengxin Chen, **Xiaoxiao Miao**, *APCIPA ASC*, 2025.
 - [SEF-MK: Speaker-Embedding-Free Voice Anonymization through Multi-k-means Quantization](https://arxiv.org/abs/2508.07086), Beilong Tang, **Xiaoxiao Miao**, Xin Wang, Ming Li, *IEEE ASRU*, 2025.
 - [The Risks and Detection of Overestimated Privacy Protection in Voice Anonymisation](https://arxiv.org/abs/2507.22534), Michele Panariello, Sarina Meyer, Pierre Champion, **Xiaoxiao Miao**, Massimiliano Todisco, Ngoc Thang Vu, Nicholas Evans, *5th Symposium on Security and Privacy in Speech Communication*, 2025.
 - [Localizing Audio-Visual Deepfakes via Hierarchical Boundary Modeling](https://arxiv.org/abs/2508.02000), Xuanjun Chen, Shih-Peng Cheng, Jiawei Du, Lin Zhang, **Xiaoxiao Miao**, Chung-Che Wang, Haibin Wu, Hung-yi Lee, Jyh-Shing Roger Jang, *under review*, 2025.
