@@ -62,7 +62,7 @@ My research interest includes speech security, speaker and language recognition,
 # Publication
 
 **2025**
-- SegReConcat: A Data Augmentation Method for Voice Anonymization Attack, Ridwan Arefeen, **Xiaoxiao Miao**, Tong Rong, Aik Beng Ng, Simon See, *APCIPA ASC*, 2025.
+- SegReConcat: [A Data Augmentation Method for Voice Anonymization Attack](https://arxiv.org/abs/2508.18907), Ridwan Arefeen, **Xiaoxiao Miao**, Tong Rong, Aik Beng Ng, Simon See, *APCIPA ASC*, 2025.
 - Exploring Machine Learning and Language Models for Multimodal Depression Detection, Javier Si Zhao Hong, Timothy Zoe Delaya, Sherwyn Chan Yin Kit, Pai Chet Ng, **Xiaoxiao Miao**, *APCIPA ASC*, 2025.
 - Speech Emotion Recognition via Entropy-Aware Score Selection, ChenYi Chua, JunKai Wong, Chengxin Chen, **Xiaoxiao Miao**, *APCIPA ASC*, 2025.
 - [SEF-MK: Speaker-Embedding-Free Voice Anonymization through Multi-k-means Quantization](https://arxiv.org/abs/2508.07086), Beilong Tang, **Xiaoxiao Miao**, Xin Wang, Ming Li, *IEEE ASRU*, 2025.
