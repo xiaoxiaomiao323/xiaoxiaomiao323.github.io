@@ -28,20 +28,30 @@ My research interest includes speech security, speaker and language recognition,
 [VoicePrivacy challenge](https://www.voiceprivacychallenge.org) 2022, 2024 and [Attacker Challenge at ICASSP 2025](https://www.voiceprivacychallenge.org/attacker/). My work has been published at the top international AI conferences and journals such as IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), IEEE Transactions on Information Forensics and Security (TIFS), Neural Networks, Computer Speech and Language (CSL), ICASSP, INTERSPEECH.
 
 
+<div class="warning">
+  <div class="warning-title">
+    <p>Recruiting</p>
+  </div>
+ <div class="warning-text">
+  I’m looking for a <strong>full-time research assistant</strong> with a <strong>master or PhD's degree</strong> to work with me on the <strong>voice privacy</strong> topic. Drop me an email at <a href="mailto:xiaoxiao.miao@dukekunshan.edu.cn">xiaoxiao.miao@dukekunshan.edu.cn</a> with your <strong>CV</strong> attached if you are interested.
+  </div>
+</div>
+
+
 <span class='anchor' id='teaching'></span>
 # Teaching
+- COMSCI 302, Computer Vison, DKU undergraduate course
+- ECE590K, Programing and Data Structures for Machine Learning, Duke master course
 - AAI3001, Deep Learning and Computer Vision, SIT undergraduate course
 - INF2008, Machine Learning, SIT undergraduate course
 
 
 <span class='anchor' id='projects-as-PI'></span>
 # Projects as PI
-- Biometrics Security
-  - 2022-2023 JSPS KAKENHI Grant-in-Aid for Research Start-up (22K21319): Language-independent speaker anonymization with multiple privacy-related attributes, Budget: 2.2M JPY.
-  - 2024-2026 MOE AcRF Tier 1 (R-R13-A405-0005): User-centric Personalized Voice Protection, Budget: 150K SGD.
-
-- Large Language Model
-  - 2024-2025 MOE Ignition Grant (R-IE3-A405-0005): Generative AI Aided Safety Investigation System, Budget: 180K SGD (Including 30K cash contribution from Singapore SMRT).
+- 2022-2023 JSPS KAKENHI Grant-in-Aid for Research Start-up (22K21319): Language-independent speaker anonymization with multiple privacy-related attributes, Budget: 2.2M JPY.
+- 2024-2025 MOE Ignition Grant (R-IE3-A405-0005): Generative AI Aided Safety Investigation System, Budget: 180K SGD (Including 30K cash contribution from Singapore SMRT).
+- 2024-2026 MOE AcRF Tier 1 (R-R13-A405-0005): User-centric Personalized Voice Protection, Budget: 150K SGD.
+- 2025-2026 Division of Natural and Applied Sciences (DNAS) Interdisciplinary Seed Grants: A User-Centered study of Privacy Perceptions and mitigation in Multimodal Large Language Model Interactions.
 
 
 
@@ -62,6 +72,10 @@ My research interest includes speech security, speaker and language recognition,
 # Publication
 
 **2025**
+- [CLARITY: Contextual Linguistic Adaptation and Accent Retrieval for Dual-Bias Mitigation in Text-to-Speech Generation](), Crystal Min Hui Poon\*, Pai Chet Ng\*, **Xiaoxiao Miao\***, Immanuel Jun Kai Loh\*, Bowen Zhang, Haoyu Song, Ian Mcloughlin, *submitted to ICASSP 2026*.
+- [Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker](https://arxiv.org/pdf/2510.11124), Cheng Gong, Chunyu Qiang, Tianrui Wang, Yu Jiang, Yuheng Lu, Ruihao Jing, **Xiaoxiao Miao**, Xiaolei Zhang, Longbiao Wang, Jianwu Dang, *submitted to Expert Systems With Applications*.
+- [Target Speaker Extractor Training with Diverse Speaker Conditions and Synthetic Data](https://www.nowpublishers.com/article/Details/SIP-20250054), Yun Liu, Xuechen Liu, **Xiaoxiao Miao**, Junichi Yamagishi, *APSIPA Transactions on Signal and Information Processing*, 2025.
+- [MS-GAGA: Metric-Selective Guided Adversarial Generation Attack](https://arxiv.org/pdf/2510.12468), Dion JX Ho, Gabriel Lee Jun Rong, Niharika Shrivastava, Harshavardhan Abichandani, Pai Chet Ng, **Xiaoxiao Miao**, *PFATCV@BMVC25*, 2025.
 - SegReConcat: [A Data Augmentation Method for Voice Anonymization Attack](https://arxiv.org/abs/2508.18907), Ridwan Arefeen, **Xiaoxiao Miao**, Tong Rong, Aik Beng Ng, Simon See, *APCIPA ASC*, 2025.
 - [Exploring Machine Learning and Language Models for Multimodal Depression Detection](https://arxiv.org/abs/2508.20805), Javier Si Zhao Hong, Timothy Zoe Delaya, Sherwyn Chan Yin Kit, Pai Chet Ng, **Xiaoxiao Miao**, *APCIPA ASC*, 2025.
 - [Speech Emotion Recognition via Entropy-Aware Score Selection](https://arxiv.org/abs/2508.20796), ChenYi Chua, JunKai Wong, Chengxin Chen, **Xiaoxiao Miao**, *APCIPA ASC*, 2025.
@@ -84,7 +98,6 @@ My research interest includes speech security, speaker and language recognition,
 - [The VoicePrivacy 2024 Challenge Evaluation Plan](https://arxiv.org/abs/2404.02677), Natalia Tomashenko, **Xiaoxiao Miao**, Pierre Champion, Sarina Meyer, Xin Wang, Emmanuel Vincent, Michele Panariello, Nicholas Evans, Junichi Yamagishi, Massimiliano Todisco, *arXiv preprint*, 2024.
 - [Joint Speaker Encoder and Neural Back-end Model for Fully End-to-End Automatic Speaker Verification with Multiple Enrollment Utterances](https://doi.org/10.1016/j.csl.2024.101619), Chang Zeng, **Xiaoxiao Miao**, Xin Wang, Erica Cooper, Junichi Yamagishi, *CSL*, 2024.
 - [SynVox2: Towards a privacy-friendly VoxCeleb2 dataset](https://arxiv.org/abs/2404.18501), **Xiaoxiao Miao**, Xin Wang, Erica Cooper, Junichi Yamagishi, *ICASSP*, 2024.
-- [Libri2Vox Dataset: Target Speaker Extraction with Diverse Speaker Conditions and Synthetic Data](https://arxiv.org/abs/2412.12512), Yun Liu, Xuechen Liu, **Xiaoxiao Miao**, Junichi Yamagishi, Under Review, 2024.
 
 **2023**
 - [VoicePAT: An Efficient Open-source Evaluation Toolkit for Voice Privacy Research](https://doi.org/10.1109/OJSP.2023.3344375), Sarina Meyer\*, **Xiaoxiao Miao\***, Ngoc Thang Vu, *IEEE Open Journal of Signal Processing*, 2023.
