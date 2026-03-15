@@ -140,7 +140,7 @@ My research interest includes speech security, speaker and language recognition,
 - *Multi-Speaker Anonymization* [![](https://img.shields.io/github/stars/xiaoxiaomiao323/MSA)](https://github.com/xiaoxiaomiao323/MSA)
 - *Voice Anonymization Toolkit* [![](https://img.shields.io/github/stars/DigitalPhonetics/VoicePAT)](https://github.com/DigitalPhonetics/VoicePAT)
 - *VoicePrivacy Challenge 2024* [![](https://img.shields.io/github/stars/Voice-Privacy-Challenge/Voice-Privacy-Challenge-2024)](https://github.com/Voice-Privacy-Challenge/Voice-Privacy-Challenge-2024)
-
+- *VoicePrivacy Challenge 2026* [![](https://img.shields.io/github/stars/Voice-Privacy-Challenge/Voice-Privacy-Challenge-2026)](https://github.com/Voice-Privacy-Challenge/Voice-Privacy-Challenge-2026)
 <span class='anchor' id='award'></span>
 # Award
 - Outstanding reviewer award in INTERSPEECH, 2023
