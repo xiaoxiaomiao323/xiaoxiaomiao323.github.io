@@ -25,7 +25,20 @@ I received my Ph.D. degree from the Institute of Acoustics, Chinese Academy of S
 During 2018 and 2019, I was at the University of Kent, UK, as a Visiting Student, supervised by Prof [Ian McLoughlin](https://scholar.google.com/citations?user=mcnKgPoAAAAJ&hl=en).
 
 My research interest includes speech security, speaker and language recognition, and machine learning. I am a co-organizer of the
-[VoicePrivacy challenge](https://www.voiceprivacychallenge.org) 2022, 2024 and [Attacker Challenge at ICASSP 2025](https://www.voiceprivacychallenge.org/attacker/). My work has been published at the top international AI conferences and journals such as IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), IEEE Transactions on Information Forensics and Security (TIFS), Neural Networks, Computer Speech and Language (CSL), ICASSP, INTERSPEECH.
+[VoicePrivacy challenge](https://www.voiceprivacychallenge.org) 2022, 2024, 2026 and [Attacker Challenge at ICASSP 2025](https://www.voiceprivacychallenge.org/attacker/). My work has been published at the top international AI conferences and journals such as IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), IEEE Transactions on Information Forensics and Security (TIFS), Neural Networks, Computer Speech and Language (CSL), ICASSP, INTERSPEECH.
+
+<div class="warning">
+  <div class="warning-title">
+    <p>Registration Open</p>
+  </div>
+  <div class="warning-text">
+    VPC2026 is now open for registration. Please check the 
+    <a href="https://www.voiceprivacychallenge.org/vp2026/docs/VPC_2026_march17_v2.pdf">evaluation plan</a> 
+    for more details.
+  </div>
+</div>
+
+
 
 
 <div class="warning">
@@ -74,7 +87,7 @@ My research interest includes speech security, speaker and language recognition,
 # Publication
 
 **2026**
-- [DAST: A Dual-Stream Voice Anonymization Attacker with Staged Training](), Ridwan Arefeen, **Xiaoxiao Miao**, Tong Rong, Aik Beng Ng, Simon See, Timothy Liu, *under review*
+- [DAST: A Dual-Stream Voice Anonymization Attacker with Staged Training](https://arxiv.org/pdf/2603.12840), Ridwan Arefeen, **Xiaoxiao Miao**, Tong Rong, Aik Beng Ng, Simon See, Timothy Liu, *under review*
 - [Language-Invariant Multilingual Speaker Verification for the TidyVoice 2026 Challenge](https://arxiv.org/pdf/2603.08092), Ze Li, **Xiaoxiao Miao**, Juan Liu, Ming Li, *under review*
 - [Privacy Attacks on Voice Anonymization Systems: Overview and Key Findings from the First VoicePrivacy Attacker Challenge](https://hal.science/hal-05543730/document), Natalia Tomashenko, **Xiaoxiao Miao**, Emmanuel Vincent, Junichi Yamagishi, *under review*
 - [Toward Multimodal Industrial Fault Analysis: A Single-Speed Chain Conveyor Dataset with Audio and Vibration Signals](), Zhang Chen, Yucong Zhang, **Xiaoxiao Miao**, Ming Li, *under review*
