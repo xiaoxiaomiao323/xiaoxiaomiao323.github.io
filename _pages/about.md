@@ -87,14 +87,15 @@ My research interest includes speech security, speaker and language recognition,
 # Publication
 
 **2026**
+- [The VoicePrivacy 2026 Challenge Evaluation Plan](https://hal.science/hal-05561895/document), **Xiaoxiao Miao**, Natalia Tomashenko, Ridwan Arefeen, Sarina Meyer, Michele Panariello, Xin Wang, Emmanuel Vincent, Nicholas Evans, Junichi Yamagishi, Massimiliano Todisco, 2026.
 - [DAST: A Dual-Stream Voice Anonymization Attacker with Staged Training](https://arxiv.org/pdf/2603.12840), Ridwan Arefeen, **Xiaoxiao Miao**, Tong Rong, Aik Beng Ng, Simon See, Timothy Liu, *under review*
 - [Language-Invariant Multilingual Speaker Verification for the TidyVoice 2026 Challenge](https://arxiv.org/pdf/2603.08092), Ze Li, **Xiaoxiao Miao**, Juan Liu, Ming Li, *under review*
 - [Privacy Attacks on Voice Anonymization Systems: Overview and Key Findings from the First VoicePrivacy Attacker Challenge](https://hal.science/hal-05543730/document), Natalia Tomashenko, **Xiaoxiao Miao**, Emmanuel Vincent, Junichi Yamagishi, *under review*
-- [Toward Multimodal Industrial Fault Analysis: A Single-Speed Chain Conveyor Dataset with Audio and Vibration Signals](), Zhang Chen, Yucong Zhang, **Xiaoxiao Miao**, Ming Li, *under review*
+- [Toward Multimodal Industrial Fault Analysis: A Single-Speed Chain Conveyor Dataset with Audio and Vibration Signals](https://arxiv.org/abs/2603.07130), Zhang Chen, Yucong Zhang, **Xiaoxiao Miao**, Ming Li, *under review*
 - [Training Dynamics-Aware Multi-Factor Curriculum Learning for Target Speaker Extraction](https://arxiv.org/pdf/2603.04943),Yun Liu, Xuechen Liu, **Xiaoxiao Miao**, Junichi Yamagishi, *ICASSP*, 2026
 - [ARMOR: Agentic Reasoning for Methods Orchestration and Reparameterization for Robust Adversarial Attacks](https://arxiv.org/pdf/2601.18386), Gabriel Lee Jun Rong, Christos Korgialas, Dion Jia Xu Ho, Pai Chet Ng, **Xiaoxiao Miao**, Konstantinos N Plataniotis, *ICASSP Satellite Workshop*, 2026
-- [The Third VoicePrivacy Challenge: Preserving Emotional Expressiveness and Linguistic Content in Voice Anonymization](https://arxiv.org/abs/2601.11846), Natalia Tomashenko, **Xiaoxiao Miao**, Pierre Champion, Sarina Meyer, Michele Panariello, Xin Wang, Nicholas Evans, Emmanuel Vincent, Junichi Yamagishi, Massimiliano Todisco, *submitted to CSL*, 2026.
-
+- [The Third VoicePrivacy Challenge: Preserving Emotional Expressiveness and Linguistic Content in Voice Anonymization](https://arxiv.org/abs/2601.11846), Natalia Tomashenko, **Xiaoxiao Miao**, Pierre Champion, Sarina Meyer, Michele Panariello, Xin Wang, Nicholas Evans, Emmanuel Vincent, Junichi Yamagishi, Massimiliano Todisco, *CSL*, 2026.
+- [Spectrogram Features for Audio and Speech Analysis](https://arxiv.org/abs/2603.14917), Ian McLoughlin, Lam Pham, Yan Song, **Xiaoxiao Miao**, Huy Phan, Pengfei Cai, Qing Gu, Jiang Nan, Haoyu Song, Donny Soh, *Applied Sciences*, 2026.
   
 **2025**
 - [CLARITY: Contextual Linguistic Adaptation and Accent Retrieval for Dual-Bias Mitigation in Text-to-Speech Generation](https://arxiv.org/abs/2511.11104), Crystal Min Hui Poon\*, Pai Chet Ng\*, **Xiaoxiao Miao\***, Immanuel Jun Kai Loh\*, Bowen Zhang, Haoyu Song, Ian Mcloughlin, *under review*.
