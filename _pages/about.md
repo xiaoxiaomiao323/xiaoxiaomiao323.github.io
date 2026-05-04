@@ -157,6 +157,7 @@ My research interest includes speech security, speaker and language recognition,
 - *VoicePrivacy Challenge 2026* [![](https://img.shields.io/github/stars/Voice-Privacy-Challenge/Voice-Privacy-Challenge-2026)](https://github.com/Voice-Privacy-Challenge/Voice-Privacy-Challenge-2026)
 <span class='anchor' id='award'></span>
 # Award
+- ECE excellence in teaching award, 2026
 - Outstanding reviewer award in INTERSPEECH, 2023
 - Best paper nomination award in Odyssey, 2022
 - The 2th place in MGB-5 challenge - Fine-grained Arabic Dialect Identification, ASRU, 2019
