@@ -67,6 +67,7 @@ My research interest includes speech security, speaker and language recognition,
 - 2024-2025 MOE Ignition Grant (R-IE3-A405-0005): Generative AI Aided Safety Investigation System, Budget: 180K SGD (Including 30K cash contribution from Singapore SMRT).
 - 2024-2026 MOE AcRF Tier 1 (R-R13-A405-0005): User-centric Personalized Voice Protection, Budget: 150K SGD.
 - 2025-2026 Division of Natural and Applied Sciences (DNAS) Interdisciplinary Seed Grants: A User-Centered study of Privacy Perceptions and mitigation in Multimodal Large Language Model Interactions.
+- 2026-2027 DKU-Duke Collaborative Scholarship Grant: Enhancing Automated Programming Assessment for University Education: Large Language Model-Powered Evaluation, Integrity Analysis, and Adaptive Learning Support.
 
 
 
