@@ -68,7 +68,8 @@ My research interest includes speech security, speaker and language recognition,
 - 2024-2026 MOE AcRF Tier 1 (R-R13-A405-0005): User-centric Personalized Voice Protection, Budget: 150K SGD.
 - 2025-2026 Division of Natural and Applied Sciences (DNAS) Interdisciplinary Seed Grants: A User-Centered study of Privacy Perceptions and mitigation in Multimodal Large Language Model Interactions.
 - 2026-2027 DKU-Duke Collaborative Scholarship Grant: Enhancing Automated Programming Assessment for University Education: Large Language Model-Powered Evaluation, Integrity Analysis, and Adaptive Learning Support.
-
+- 2026–2027 Duke Provost's Fund
+- 2026 Kunshan S&T Association Young Science and Technology Talent Support Program
 
 
 <span class='anchor' id='patent-and-License-as-the-first-author'></span>
