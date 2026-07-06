@@ -66,7 +66,7 @@ My research interest includes speech security, speaker and language recognition,
 
 <span class='anchor' id='academic-activities'></span>
 # Academic Activities
-- Organizer: Attacker Challenge at ICASSP 2025, VoicePrivacy Challenge 2024 and 2022.
+- Organizer: VoicePrivacy Challenge 2026, 2024 and 2022, Attacker Challenge at ICASSP 2025.
 - Session chair: ICASSP 2024, INTERSPEECH 2023, ISCSLP 2022.
 - Reviewer: IEEE TASLP, IEEE TPAMI, IEEE SPL, CSL, ICASSP, INTERSPEECH, etc.
 
