@@ -40,12 +40,12 @@ My research interest includes speech security, speaker and language recognition,
 
 <span class='anchor' id='teaching'></span>
 # Teaching
-- COMSCI311, Computer Networks, DKU undergraduate course
-- COMSCI101, Introduction to Computer Science, DKU undergraduate course
-- COMSCI302, Computer Vison, DKU undergraduate course
-- ECE590K, Programing and Data Structures for Machine Learning, Duke master course
-- AAI3001, Deep Learning and Computer Vision, SIT undergraduate course
-- INF2008, Machine Learning, SIT undergraduate course
+- COMSCI311, Computer Networks, DKU undergraduate course,2026
+- COMSCI101, Introduction to Computer Science, DKU undergraduate course,2026
+- COMSCI302, Computer Vison, DKU undergraduate course,2025
+- ECE590K, Programing and Data Structures for Machine Learning, Duke master course,2025
+- AAI3001, Deep Learning and Computer Vision, SIT undergraduate course,2024
+- INF2008, Machine Learning, SIT undergraduate course, 2025
 
 
 <span class='anchor' id='projects-as-PI'></span>
