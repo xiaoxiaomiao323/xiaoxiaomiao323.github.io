@@ -27,19 +27,6 @@ During 2018 and 2019, I was at the University of Kent, UK, as a Visiting Student
 My research interest includes speech security, speaker and language recognition, and machine learning. I am a co-organizer of the
 [VoicePrivacy challenge](https://www.voiceprivacychallenge.org) 2022, 2024, 2026 and [Attacker Challenge at ICASSP 2025](https://www.voiceprivacychallenge.org/attacker/). My work has been published at the top international AI conferences and journals such as IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), IEEE Transactions on Information Forensics and Security (TIFS), Neural Networks, Computer Speech and Language (CSL), ICASSP, INTERSPEECH.
 
-<div class="warning">
-  <div class="warning-title">
-    <p>Registration Open</p>
-  </div>
-  <div class="warning-text">
-    VPC2026 is now open for registration. Please check the 
-    <a href="https://www.voiceprivacychallenge.org/vp2026/docs/VPC_2026_march17_v2.pdf">evaluation plan</a> 
-    for more details.
-  </div>
-</div>
-
-
-
 
 <div class="warning">
   <div class="warning-title">
@@ -93,7 +80,7 @@ My research interest includes speech security, speaker and language recognition,
 - [DAST: A Dual-Stream Voice Anonymization Attacker with Staged Training](https://arxiv.org/pdf/2603.12840), Ridwan Arefeen, **Xiaoxiao Miao**, Tong Rong, Aik Beng Ng, Simon See, Timothy Liu, *INTERSPEECH*, 2026.
 - [Language-Invariant Multilingual Speaker Verification for the TidyVoice 2026 Challenge](https://arxiv.org/pdf/2603.08092), Ze Li, **Xiaoxiao Miao**, Juan Liu, Ming Li, *INTERSPEECH*, 2026.
 - [Toward Multimodal Industrial Fault Analysis: A Single-Speed Chain Conveyor Dataset with Audio and Vibration Signals](https://arxiv.org/abs/2603.07130), Zhang Chen, Yucong Zhang, **Xiaoxiao Miao**, Ming Li, *INTERSPEECH*, 2026.
-- Child-Centric Voice Anonymization in Single and Multi-Speaker Speech via Domain-Adapted SSL Models, Pranav Tushar, **Xiao Xiao Miao**, Rong Tong. *INTERSPEECH*, 2026.
+- [Child-Centric Voice Anonymization in Single and Multi-Speaker Speech via Domain-Adapted SSL Models](https://arxiv.org/abs/2606.29897), Pranav Tushar, **Xiao Xiao Miao**, Rong Tong. *INTERSPEECH*, 2026.
 - [Training Dynamics-Aware Multi-Factor Curriculum Learning for Target Speaker Extraction](https://arxiv.org/pdf/2603.04943),Yun Liu, Xuechen Liu, **Xiaoxiao Miao**, Junichi Yamagishi, *ICASSP*, 2026
 - [Privacy Attacks on Voice Anonymization Systems: Overview and Key Findings from the First VoicePrivacy Attacker Challenge](https://hal.science/hal-05543730/document), Natalia Tomashenko, **Xiaoxiao Miao**, Emmanuel Vincent, Junichi Yamagishi, *under review*
 - [ARMOR: Agentic Reasoning for Methods Orchestration and Reparameterization for Robust Adversarial Attacks](https://arxiv.org/pdf/2601.18386), Gabriel Lee Jun Rong, Christos Korgialas, Dion Jia Xu Ho, Pai Chet Ng, **Xiaoxiao Miao**, Konstantinos N Plataniotis, *ICASSP Satellite Workshop*, 2026
