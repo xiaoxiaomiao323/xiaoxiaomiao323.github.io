@@ -76,7 +76,7 @@ My research interest includes speech security, speaker and language recognition,
 # Publication
 
 **2026**
-- [Personalized Federated Learning for Multimodal Biometric User Verification], Peter Febrianto Afandy, Pai Chet Ng, **Xiaoxiao Miao**, *APCIPA ASC*, 2026.
+- Personalized Federated Learning for Multimodal Biometric User Verification, Peter Febrianto Afandy, Pai Chet Ng, **Xiaoxiao Miao**, *APCIPA ASC*, 2026.
 - [The VoicePrivacy 2026 Challenge Evaluation Plan](https://hal.science/hal-05561895/document), **Xiaoxiao Miao**, Natalia Tomashenko, Ridwan Arefeen, Sarina Meyer, Michele Panariello, Xin Wang, Emmanuel Vincent, Nicholas Evans, Junichi Yamagishi, Massimiliano Todisco, 2026.
 - [DAST: A Dual-Stream Voice Anonymization Attacker with Staged Training](https://arxiv.org/pdf/2603.12840), Ridwan Arefeen, **Xiaoxiao Miao**, Tong Rong, Aik Beng Ng, Simon See, Timothy Liu, *INTERSPEECH*, 2026.
 - [Language-Invariant Multilingual Speaker Verification for the TidyVoice 2026 Challenge](https://arxiv.org/pdf/2603.08092), Ze Li, **Xiaoxiao Miao**, Juan Liu, Ming Li, *INTERSPEECH*, 2026.
