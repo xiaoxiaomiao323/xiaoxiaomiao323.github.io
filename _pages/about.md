@@ -77,7 +77,7 @@ My research interest includes speech security, speaker and language recognition,
 
 **2026**
 - [Voice Anonymization Made Simple: Training-Free Anonymization with Projected Classifier-Free Guidance](https://arxiv.org/abs/2610.08276), Xiang Shi, Han Zhu, Ming Li, **Xiaoxiao Miao**, *IEEE SLT*, 2026.
-- [Exploiting Acoustic and Content-Oriented Speaker Verification Attacks Against Multilingual Voice Anonymization]([https://arxiv.org/abs/2610.08276](https://arxiv.org/abs/2610.08107)), Ridwan Arefeen, Ze Li, Rong Tong, Ming Li, **Xiaoxiao Miao**, *IEEE SLT*, 2026.
+- [Exploiting Acoustic and Content-Oriented Speaker Verification Attacks Against Multilingual Voice Anonymization](https://arxiv.org/abs/2610.08107), Ridwan Arefeen, Ze Li, Rong Tong, Ming Li, **Xiaoxiao Miao**, *IEEE SLT*, 2026.
 - [In Defense of Using Worst-case Privacy Disclosure as Privacy Evaluation Metric of Voice Anonymization](https://arxiv.org/abs/2608.10318), Xin Wang, **Xiaoxiao Miao**, *6th Symposium on Security and Privacy in Speech Communication*, 2026.
 - [Localizing Audio-Visual Deepfakes via Hierarchical Boundary Modeling](https://arxiv.org/abs/2508.02000), Xuanjun Chen, Shih-Peng Cheng, Jiawei Du, Lin Zhang, **Xiaoxiao Miao**, Chung-Che Wang, Haibin Wu, Hung-yi Lee, Jyh-Shing Roger Jang, *ISCSLP*, 2026.
 - [Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker](https://arxiv.org/pdf/2510.11124), Cheng Gong, Chunyu Qiang, Tianrui Wang, Yu Jiang, Yuheng Lu, Ruihao Jing, **Xiaoxiao Miao**, Xiaolei Zhang, Longbiao Wang, Jianwu Dang, *NCMMSC*, 2026.
