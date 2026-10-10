@@ -76,6 +76,11 @@ My research interest includes speech security, speaker and language recognition,
 # Publication
 
 **2026**
+- [Voice Anonymization Made Simple: Training-Free Anonymization with Projected Classifier-Free Guidance](https://arxiv.org/abs/2610.08276), Xiang Shi, Han Zhu, Ming Li, **Xiaoxiao Miao**, *IEEE SLT*, 2026.
+- [Exploiting Acoustic and Content-Oriented Speaker Verification Attacks Against Multilingual Voice Anonymization]([https://arxiv.org/abs/2610.08276](https://arxiv.org/abs/2610.08107)), Ridwan Arefeen, Ze Li, Rong Tong, Ming Li, **Xiaoxiao Miao**, *IEEE SLT*, 2026.
+- [In Defense of Using Worst-case Privacy Disclosure as Privacy Evaluation Metric of Voice Anonymization](https://arxiv.org/abs/2608.10318), Xin Wang, **Xiaoxiao Miao**, *6th Symposium on Security and Privacy in Speech Communication*, 2026.
+- [Localizing Audio-Visual Deepfakes via Hierarchical Boundary Modeling](https://arxiv.org/abs/2508.02000), Xuanjun Chen, Shih-Peng Cheng, Jiawei Du, Lin Zhang, **Xiaoxiao Miao**, Chung-Che Wang, Haibin Wu, Hung-yi Lee, Jyh-Shing Roger Jang, *ISCSLP*, 2026.
+- [Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker](https://arxiv.org/pdf/2510.11124), Cheng Gong, Chunyu Qiang, Tianrui Wang, Yu Jiang, Yuheng Lu, Ruihao Jing, **Xiaoxiao Miao**, Xiaolei Zhang, Longbiao Wang, Jianwu Dang, *NCMMSC*, 2026.
 - Personalized Federated Learning for Multimodal Biometric User Verification, Peter Febrianto Afandy, Pai Chet Ng, **Xiaoxiao Miao**, *APCIPA ASC*, 2026.
 - [The VoicePrivacy 2026 Challenge Evaluation Plan](https://hal.science/hal-05561895/document), **Xiaoxiao Miao**, Natalia Tomashenko, Ridwan Arefeen, Sarina Meyer, Michele Panariello, Xin Wang, Emmanuel Vincent, Nicholas Evans, Junichi Yamagishi, Massimiliano Todisco, 2026.
 - [DAST: A Dual-Stream Voice Anonymization Attacker with Staged Training](https://arxiv.org/pdf/2603.12840), Ridwan Arefeen, **Xiaoxiao Miao**, Tong Rong, Aik Beng Ng, Simon See, Timothy Liu, *INTERSPEECH*, 2026.
@@ -90,7 +95,6 @@ My research interest includes speech security, speaker and language recognition,
 - [CLARITY: Contextual Linguistic Adaptation and Accent Retrieval for Dual-Bias Mitigation in Text-to-Speech Generation](https://arxiv.org/abs/2511.11104), Crystal Min Hui Poon\*, Pai Chet Ng\*, **Xiaoxiao Miao\***, Immanuel Jun Kai Loh\*, Bowen Zhang, Haoyu Song, Ian Mcloughlin, *IEEE International Conference on Human-Machine Systems (ICHMS)*, 2026.
 
 **2025**
-- [Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker](https://arxiv.org/pdf/2510.11124), Cheng Gong, Chunyu Qiang, Tianrui Wang, Yu Jiang, Yuheng Lu, Ruihao Jing, **Xiaoxiao Miao**, Xiaolei Zhang, Longbiao Wang, Jianwu Dang, *submitted to Expert Systems With Applications*.
 - [Target Speaker Extractor Training with Diverse Speaker Conditions and Synthetic Data](https://www.nowpublishers.com/article/Details/SIP-20250054), Yun Liu, Xuechen Liu, **Xiaoxiao Miao**, Junichi Yamagishi, *APSIPA Transactions on Signal and Information Processing*, 2025.
 - [MS-GAGA: Metric-Selective Guided Adversarial Generation Attack](https://arxiv.org/pdf/2510.12468), Dion JX Ho, Gabriel Lee Jun Rong, Niharika Shrivastava, Harshavardhan Abichandani, Pai Chet Ng, **Xiaoxiao Miao**, *PFATCV@BMVC25*, 2025.
 - SegReConcat: [A Data Augmentation Method for Voice Anonymization Attack](https://arxiv.org/abs/2508.18907), Ridwan Arefeen, **Xiaoxiao Miao**, Tong Rong, Aik Beng Ng, Simon See, *APCIPA ASC*, 2025.
@@ -98,7 +102,6 @@ My research interest includes speech security, speaker and language recognition,
 - [Speech Emotion Recognition via Entropy-Aware Score Selection](https://arxiv.org/abs/2508.20796), ChenYi Chua, JunKai Wong, Chengxin Chen, **Xiaoxiao Miao**, *APCIPA ASC*, 2025.
 - [SEF-MK: Speaker-Embedding-Free Voice Anonymization through Multi-k-means Quantization](https://arxiv.org/abs/2508.07086), Beilong Tang, **Xiaoxiao Miao**, Xin Wang, Ming Li, *IEEE ASRU*, 2025.
 - [The Risks and Detection of Overestimated Privacy Protection in Voice Anonymisation](https://arxiv.org/abs/2507.22534), Michele Panariello, Sarina Meyer, Pierre Champion, **Xiaoxiao Miao**, Massimiliano Todisco, Ngoc Thang Vu, Nicholas Evans, *5th Symposium on Security and Privacy in Speech Communication*, 2025.
-- [Localizing Audio-Visual Deepfakes via Hierarchical Boundary Modeling](https://arxiv.org/abs/2508.02000), Xuanjun Chen, Shih-Peng Cheng, Jiawei Du, Lin Zhang, **Xiaoxiao Miao**, Chung-Che Wang, Haibin Wu, Hung-yi Lee, Jyh-Shing Roger Jang, *under review*, 2025.
 - [SecureSpeech: Prompt-based Speaker and Content Protection](https://arxiv.org/abs/2507.07799), Belinda Soh Hui Hui, **Xiaoxiao Miao**, Xin Wang, *IEEE IJCB*, 2025.
 - [Mitigating Language Mismatch in SSL-Based Speaker Anonymization](https://arxiv.org/abs/2507.00458), Zhe Zhang, Wen-Chin Huang, Xin Wang, **Xiaoxiao Miao**, Junichi Yamagishi, *INTERSPEECH*, 2025.
 - [Automated evaluation of children's speech fluency for low-resource languages](https://arxiv.org/abs/2505.19671), Bowen Zhang, Nur Afiqah Abdul Latiff, Justin Kan, Rong Tong, Donny Soh, **Xiaoxiao Miao**, Ian McLoughlin, *INTERSPEECH*, 2025
@@ -108,8 +111,8 @@ My research interest includes speech security, speaker and language recognition,
 - [Adapting General Disentanglement-Based Speaker Anonymization for Enhanced Emotion Preservation](https://www.sciencedirect.com/science/article/pii/S088523082500035X), **Xiaoxiao Miao\***, Yuxiang Zhang\*, Xin Wang, Natalia Tomashenko, Donny Cheng Lock Soh, Ian Mcloughlin, *CSL*, 2025.
 
 **2024**  
-- [Spoofing-Aware Speaker Verification Robust Against Domain and Channel Mismatches](https://ieeexplore.ieee.org/abstract/document/10832246), Chang Zeng, **Xiaoxiao Miao**, Xin Wang, Erica Cooper, Junichi Yamagishi, *SLT*, 2024.
-- [Instructsing: High-Fidelity Singing Voice Generation Via Instructing Yourself](https://ieeexplore.ieee.org/abstract/document/10832285), Chang Zeng, Chunhui Wang, **Xiaoxiao Miao**, Jian Zhao, Zhonglin Jiang, Yong Chen, *SLT*, 2024.
+- [Spoofing-Aware Speaker Verification Robust Against Domain and Channel Mismatches](https://ieeexplore.ieee.org/abstract/document/10832246), Chang Zeng, **Xiaoxiao Miao**, Xin Wang, Erica Cooper, Junichi Yamagishi, *IEEE SLT*, 2024.
+- [Instructsing: High-Fidelity Singing Voice Generation Via Instructing Yourself](https://ieeexplore.ieee.org/abstract/document/10832285), Chang Zeng, Chunhui Wang, **Xiaoxiao Miao**, Jian Zhao, Zhonglin Jiang, Yong Chen, *IEEE SLT*, 2024.
 - [The First VoicePrivacy Attacker Challenge Evaluation Plan](https://arxiv.org/abs/2410.07428), Natalia Tomashenko, **Xiaoxiao Miao**, Emmanuel Vincent, Junichi Yamagishi, *arXiv*, 2024.
 - [The VoicePrivacy 2022 Challenge: Progress and Perspectives in Voice Anonymisation](https://doi.org/10.1109/TASLP.2024.3430530), Michele Panariello, Natalia Tomashenko, Xin Wang, **Xiaoxiao Miao**, Pierre Champion, Hubert Nourtel, Massimiliano Todisco, Nicholas Evans, Emmanuel Vincent, Junichi Yamagishi, *TASLP*, 2024.
 - [The VoicePrivacy 2024 Challenge Evaluation Plan](https://arxiv.org/abs/2404.02677), Natalia Tomashenko, **Xiaoxiao Miao**, Pierre Champion, Sarina Meyer, Xin Wang, Emmanuel Vincent, Michele Panariello, Nicholas Evans, Junichi Yamagishi, Massimiliano Todisco, *arXiv*, 2024.
@@ -137,7 +140,7 @@ My research interest includes speech security, speaker and language recognition,
 - [A New Time–Frequency Attention Tensor Network for Language Identification](https://doi.org/10.1007/s00034-019-01286-9), **Xiaoxiao Miao**, Ian McLoughlin, Yanyong Hong, *Circuits, Systems, and Signal Processing*, 2020.
 - [Lstm-tdnn with convolutional front-end for dialect identification in the 2019 multi-genre broadcast challenge](https://arxiv.org/abs/1912.09003), **Xiaoxiao Miao**, Ian McLoughlin, *arXiv*, 2019.
 - [A New Time-Frequency Attention Mechanism for TDNN and CNN-LSTM-TDNN, with Application to Language Identification](https://www.isca-archive.org/interspeech_2019/miao19b_interspeech.pdf), **Xiaoxiao Miao**, Ian McLoughlin, Yonghong Yan, *INTERSPEECH*, 2019.
-- [Improved conditional generative adversarial net classification for spoken language recognition](https://ieeexplore.ieee.org/abstract/document/8639522), **Xiaoxiao Miao**, Ian McLoughlin, Shengyu Yao, Yonghong Yan, *SLT*, 2018.
+- [Improved conditional generative adversarial net classification for spoken language recognition](https://ieeexplore.ieee.org/abstract/document/8639522), **Xiaoxiao Miao**, Ian McLoughlin, Shengyu Yao, Yonghong Yan, *IEEE SLT*, 2018.
 
 <span class='anchor' id='code'></span>
 # Code
